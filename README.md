@@ -59,9 +59,7 @@ ott_analytics_platform/
 ├── docs/
 │   ├── architecture.md                # Architecture Specifications & Diagrams
 │   ├── data_dictionary.md             # Complete Field-Level Data Dictionary
-│   ├── executive_presentation.md      # 25-Slide Consulting Deck Specifications
-│   ├── portfolio_guide.md             # STAR Resume Bullets & Elevator Pitch
-│   └── interview_qna.md               # 50 Detailed Interview Q&As
+│   └── executive_presentation.md      # 25-Slide Consulting Deck Specifications
 ├── sql/
 │   ├── 01_schema_ddl.sql              # Star Schema DDL & Indexes
 │   ├── 02_views_and_aggregates.sql    # Materialized Views & Summary Tables
@@ -88,8 +86,8 @@ ott_analytics_platform/
 
 ### Step 1: Clone Repository & Install Python Dependencies
 ```bash
-git clone https://github.com/your-username/ott-content-intelligence-platform.git
-cd ott-content-intelligence-platform
+git clone https://github.com/Ramkadammmm/ott-analytics-platform.git
+cd ott-analytics-platform
 pip install -r requirements.txt
 ```
 

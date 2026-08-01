@@ -1,7 +1,7 @@
 # ==============================================================================
 # OTT CONTENT INTELLIGENCE & VIEWER ANALYTICS PLATFORM
 # R Statistical Analytics Module: Churn Logistic Regression & Demand Forecast
-# Author: Principal Data Analytics Architect
+# Author: Tulshiram Kadam
 # ==============================================================================
 
 suppressPackageStartupMessages({

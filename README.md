@@ -6,7 +6,7 @@
 [![R Statistical Analytics](https://img.shields.io/badge/R-Statistical%20Modeling-blue.svg)](https://www.r-project.org/)
 [![Tableau Production](https://img.shields.io/badge/Tableau-Production%20Dashboards-E97627.svg)](https://www.tableau.com/)
 
-An end-to-end, production-grade business intelligence and predictive analytics platform engineered from the perspective of a **Principal Data Analytics Architect** (15+ years experience in streaming media such as Netflix, Disney+, Prime Video, JioHotstar, and SonyLIV).
+An end-to-end, production-grade business intelligence and predictive analytics platform engineered for streaming media platforms (Netflix, Disney+, Prime Video, JioHotstar, and SonyLIV).
 
 ---
 

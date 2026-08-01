@@ -1,7 +1,7 @@
 -- ============================================================================
 -- OTT CONTENT INTELLIGENCE & VIEWER ANALYTICS PLATFORM
 -- 50 Production-Grade Advanced SQL Queries
--- Author: Principal Data Analytics Architect
+-- Author: Tulshiram Kadam
 -- ============================================================================
 
 -- Q1: Daily Active Users (DAU), Monthly Active Users (MAU), and Stickiness Ratio (DAU/MAU %)

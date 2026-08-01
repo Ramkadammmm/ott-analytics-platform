@@ -1,7 +1,7 @@
 -- ============================================================================
 -- OTT CONTENT INTELLIGENCE & VIEWER ANALYTICS PLATFORM
 -- Data Warehouse Views & Summary Aggregate Tables
--- Author: Principal Data Analytics Architect
+-- Author: Tulshiram Kadam
 -- ============================================================================
 
 -- 1. View: Daily Active Users (DAU) & Engagement Summary

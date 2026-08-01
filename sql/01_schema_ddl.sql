@@ -1,7 +1,7 @@
 -- ============================================================================
 -- OTT CONTENT INTELLIGENCE & VIEWER ANALYTICS PLATFORM
 -- Data Warehouse DDL - Star Schema Architecture (PostgreSQL / SQLite Compatible)
--- Author: Principal Data Analytics Architect
+-- Author: Tulshiram Kadam
 -- ============================================================================
 
 -- ----------------------------------------------------------------------------

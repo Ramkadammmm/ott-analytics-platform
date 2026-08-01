@@ -1,0 +1,18 @@
+database:
+  db_type: "sqlite"
+  db_name: "ott_analytics_dw.db"
+  batch_size: 50000
+
+generator:
+  num_users: 100000
+  num_titles: 15000
+  num_viewing_events: 500000
+  num_ad_impressions: 250000
+  num_sessions: 300000
+  seed: 42
+  start_date: "2025-01-01"
+  end_date: "2026-06-30"
+
+logging:
+  level: "INFO"
+  log_file: "logs/etl_pipeline.log"
